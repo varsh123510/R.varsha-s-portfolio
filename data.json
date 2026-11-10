@@ -1,0 +1,941 @@
+{
+  "meta": {
+    "updated": "2026-11-10",
+    "siteUrl": "https://r-varsha-s-portfolio.vercel.app/"
+  },
+  "profile": {
+    "name": "Varsha Rajmohan",
+    "displayName": "Varsha.R",
+    "photo": "images/profile.jpg",
+    "degree": "Final-year B.E. Computer Science & Engineering · CGPA 8.4",
+    "college": "St. Peter's College of Engineering & Technology, Chennai",
+    "graduation": "Class of 2027",
+    "status": "Open to full-time roles from 2027",
+    "location": "Chennai, Tamil Nadu · open to relocation",
+    "bio": "I build and ship working software: a production booking website for a live client, an AI résumé scorer, and a deep-learning skin-disease detector that I presented and published at a national conference. I work in React, JavaScript and Python, build on Supabase and deploy on Render, Netlify and Vercel. Alongside college I've completed six internships across front-end, cloud, data science, AI and ServiceNow, and earned an A1 grade in automation testing from NSIC (Govt. of India). I'm looking for a software developer or QA automation role from 2027.",
+    "typedRoles": [
+      "Software Developer · Class of 2027",
+      "React & JavaScript Developer",
+      "Python & AI Builder",
+      "QA Automation · A1 at NSIC",
+      "ServiceNow Trained",
+      "Shipped Real Client Work",
+      "Open to Full-time Roles"
+    ],
+    "email": "varsharajmohan236@gmail.com",
+    "phone": "+91 93421 13128",
+    "github": "https://github.com/varsh123510",
+    "linkedin": "https://www.linkedin.com/in/varsha-rajmohan-ba395832a",
+    "resume": "resume.pdf"
+  },
+  "education": [
+    {
+      "title": "B.E. Computer Science & Engineering",
+      "place": "St. Peter's College of Engineering & Technology, Chennai",
+      "period": "2023 – 2027",
+      "note": "Final year · CGPA 8.4 / 10"
+    },
+    {
+      "title": "Schooling",
+      "place": "SNDJAVV School",
+      "period": "",
+      "note": ""
+    }
+  ],
+  "stats": [
+    {
+      "value": "20,000+",
+      "label": "applicants our team beat to reach the Odoo Hackathon 2026 finale"
+    },
+    {
+      "value": "{internships}",
+      "label": "internships · front-end, cloud, data science, AI, ServiceNow"
+    },
+    {
+      "value": "{projects}",
+      "label": "projects, including a live client website"
+    },
+    {
+      "value": "{certificates}",
+      "label": "certificates from IBM, NPTEL, Infosys, Google Cloud, Saylor and more"
+    }
+  ],
+  "skills": [
+    {
+      "tab": "Languages & Frameworks",
+      "items": [
+        {
+          "name": "Python",
+          "level": 88
+        },
+        {
+          "name": "JavaScript",
+          "level": 78
+        },
+        {
+          "name": "Java (OOP)"
+        },
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "C"
+        },
+        {
+          "name": "HTML5 & CSS3",
+          "level": 90
+        },
+        {
+          "name": "React.js"
+        },
+        {
+          "name": "Tailwind CSS"
+        },
+        {
+          "name": "REST APIs"
+        },
+        {
+          "name": "Flask",
+          "level": 72
+        },
+        {
+          "name": "OpenWeather API"
+        },
+        {
+          "name": "Web Speech API"
+        }
+      ]
+    },
+    {
+      "tab": "AI & Data",
+      "items": [
+        {
+          "name": "Deep Learning (CNN)",
+          "level": 70
+        },
+        {
+          "name": "TensorFlow / Keras",
+          "level": 68
+        },
+        {
+          "name": "Machine Learning",
+          "level": 73
+        },
+        {
+          "name": "Data Science",
+          "level": 80
+        },
+        {
+          "name": "Data Visualization (Python)"
+        },
+        {
+          "name": "Business Intelligence"
+        },
+        {
+          "name": "Generative AI"
+        },
+        {
+          "name": "Prompt Engineering"
+        }
+      ]
+    },
+    {
+      "tab": "Testing & Platforms",
+      "items": [
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "Automation Testing & Scripting"
+        },
+        {
+          "name": "ServiceNow Administration"
+        },
+        {
+          "name": "ServiceNow Flow Designer"
+        },
+        {
+          "name": "Automated Test Framework (ATF)"
+        },
+        {
+          "name": "Information Security"
+        }
+      ]
+    },
+    {
+      "tab": "Cloud, Data & Tools",
+      "items": [
+        {
+          "name": "Supabase (PostgreSQL)"
+        },
+        {
+          "name": "MySQL",
+          "level": 65
+        },
+        {
+          "name": "MongoDB"
+        },
+        {
+          "name": "Render"
+        },
+        {
+          "name": "Vercel"
+        },
+        {
+          "name": "Netlify",
+          "level": 82
+        },
+        {
+          "name": "Cloudflare"
+        },
+        {
+          "name": "Grafana Cloud"
+        },
+        {
+          "name": "Git & GitHub",
+          "level": 76
+        },
+        {
+          "name": "VS Code",
+          "level": 90
+        }
+      ]
+    },
+    {
+      "tab": "Core CS",
+      "items": [
+        {
+          "name": "Data Structures"
+        },
+        {
+          "name": "OOP"
+        },
+        {
+          "name": "DBMS"
+        },
+        {
+          "name": "Software Engineering (SDLC)"
+        },
+        {
+          "name": "Agile"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "tab": "Design",
+      "items": [
+        {
+          "name": "Figma",
+          "level": 72
+        },
+        {
+          "name": "UI/UX Design",
+          "level": 78
+        },
+        {
+          "name": "Canva",
+          "level": 85
+        },
+        {
+          "name": "Wireframing",
+          "level": 70
+        },
+        {
+          "name": "Responsive Design",
+          "level": 88
+        },
+        {
+          "name": "Prototyping",
+          "level": 68
+        },
+        {
+          "name": "Animations & Micro-UX",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "tab": "Soft Skills",
+      "style": "cards",
+      "items": [
+        {
+          "name": "Communication",
+          "icon": "💬"
+        },
+        {
+          "name": "Team Work",
+          "icon": "🤝"
+        },
+        {
+          "name": "Problem Solving",
+          "icon": "🧠"
+        },
+        {
+          "name": "Time Management",
+          "icon": "⏰"
+        },
+        {
+          "name": "Quick Learner",
+          "icon": "📚"
+        },
+        {
+          "name": "Leadership",
+          "icon": "🌟"
+        },
+        {
+          "name": "Public Speaking",
+          "icon": "🎤"
+        },
+        {
+          "name": "Adaptability",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Trainee · Essentials of Automation Testing with Scripting",
+      "org": "NSIC Technical Services Centre (Govt. of India Enterprise), Chennai",
+      "type": "Training",
+      "start": "2026-08-03",
+      "end": "2026-09-05",
+      "summary": "MSME-sponsored training in test automation and scripting. Graded A1 in the final performance evaluation.",
+      "tags": [
+        "Automation Testing",
+        "Test Scripting",
+        "QA"
+      ],
+      "certificate": "certificates/nsic-automation-testing.jpg"
+    },
+    {
+      "role": "Virtual Intern · ServiceNow",
+      "org": "ServiceNow University × SmartBridge (AICTE)",
+      "type": "Internship",
+      "start": "2026-06",
+      "end": "2026-07-06",
+      "summary": "Platform administration, Flow Designer, reports and the Automated Test Framework, with preparation for the Certified System Administrator (CSA) exam and an introduction to agentic AI.",
+      "tags": [
+        "ServiceNow",
+        "ATF",
+        "Flow Designer",
+        "CSA prep"
+      ],
+      "certificate": "certificates/servicenow.jpg"
+    },
+    {
+      "role": "Front-End Development Intern",
+      "org": "QSkill · SR India",
+      "type": "Internship",
+      "start": "2026-06-01",
+      "end": "2026-07-01",
+      "summary": "Built and shipped a React + Tailwind CSS web app with client-side routing, from development to production. Prototyped and iterated on UI components from high-level requirements, working independently to meet deadlines.",
+      "tags": [
+        "React",
+        "Tailwind CSS",
+        "JavaScript",
+        "Routing"
+      ],
+      "certificate": "certificates/qskill-frontend.jpg"
+    },
+    {
+      "role": "Cloud Computing Intern · RISE Program",
+      "org": "Tamizhan Skills",
+      "type": "Internship",
+      "start": "2026-06-01",
+      "end": "2026-06-30",
+      "summary": "Deployed and monitored applications on Supabase, Render, Cloudflare and Grafana Cloud across the full deployment lifecycle.",
+      "tags": [
+        "Supabase",
+        "Render",
+        "Cloudflare",
+        "Grafana Cloud"
+      ],
+      "certificate": "certificates/tamizhan-cloud.jpg"
+    },
+    {
+      "role": "Data Science & Analytics Intern · RISE Program",
+      "org": "Tamizhan Skills",
+      "type": "Internship",
+      "start": "2026-03-01",
+      "end": "2026-03-31",
+      "summary": "Hands-on data analytics projects in Python covering data cleaning, exploratory analysis and visualization.",
+      "tags": [
+        "Python",
+        "Pandas",
+        "EDA",
+        "Visualization"
+      ],
+      "certificate": "certificates/tamizhan-data-science-internship.jpg"
+    },
+    {
+      "role": "Artificial Intelligence Intern",
+      "org": "CodTech IT Solutions Pvt. Ltd.",
+      "type": "Internship",
+      "start": "2025-06-17",
+      "end": "2025-07-17",
+      "summary": "Built and trained machine-learning models for real-world problems, iterating on the design based on performance feedback.",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Python"
+      ],
+      "certificate": "certificates/codtech-ai-internship.jpg"
+    },
+    {
+      "role": "Data Science Intern",
+      "org": "CodTech IT Solutions Pvt. Ltd.",
+      "type": "Internship",
+      "start": "2025-01",
+      "end": "2025-02",
+      "summary": "Worked across the data pipeline, from data collection and preprocessing to model building and visualization.",
+      "tags": [
+        "Python",
+        "Data Pipeline",
+        "Machine Learning"
+      ],
+      "certificate": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Skin Disease Detection",
+      "category": "AI & ML",
+      "tag": "AI · Deep Learning",
+      "summary": "Deep-learning app that classifies skin conditions from images and recommends precautions, built from data preparation to a working prototype. Presented at NCNGERI-2026 and published in the conference proceedings.",
+      "stack": [
+        "Python",
+        "TensorFlow / Keras",
+        "CNN",
+        "Flask"
+      ],
+      "badge": "Published paper",
+      "links": {
+        "demo": "",
+        "code": "https://github.com/varsh123510"
+      }
+    },
+    {
+      "name": "InterCityGo · Intercity Cab Booking",
+      "category": "Full-stack",
+      "tag": "Final-year team project",
+      "summary": "One-way intercity cab platform for Tamil Nadu routes with an admin console for vehicles, drivers and routes.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Supabase"
+      ],
+      "badge": "In progress",
+      "links": {
+        "demo": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "AI-Powered ATS Résumé Tracker",
+      "category": "AI & ML",
+      "tag": "AI · Web",
+      "summary": "Web app that sends a résumé to an AI API and scores it against a job's requirements, handling the request and response flow between client and service.",
+      "stack": [
+        "JavaScript",
+        "AI API",
+        "REST"
+      ],
+      "badge": "",
+      "links": {
+        "demo": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Bhuvana · Saree Draping Website",
+      "category": "Client work",
+      "tag": "Real client project",
+      "summary": "Business website delivered for a real client, showcasing saree draping services, tutorials and bookings. My first production-level project.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Netlify"
+      ],
+      "badge": "Client",
+      "links": {
+        "demo": "https://radiant-kitsune-0edc54.netlify.app/",
+        "code": ""
+      }
+    },
+    {
+      "name": "Weatherly · Voice Weather App",
+      "category": "Web apps",
+      "tag": "API · Voice · Web",
+      "summary": "Real-time weather forecasts by voice: speak a city name and hear the forecast. Built on the OpenWeather API and the Web Speech API.",
+      "stack": [
+        "JavaScript",
+        "OpenWeather API",
+        "Web Speech API"
+      ],
+      "badge": "",
+      "links": {
+        "demo": "https://creative-cocada-ed9e1a.netlify.app/",
+        "code": ""
+      }
+    },
+    {
+      "name": "Kalai Pleat · Saree Pre-Pleating Guide",
+      "category": "Web apps",
+      "tag": "Web Development",
+      "summary": "Guide website for saree pre-pleating that pairs a traditional craft with step-by-step visual UX.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "badge": "",
+      "links": {
+        "demo": "https://symphonious-babka-6d0425.netlify.app/",
+        "code": ""
+      }
+    },
+    {
+      "name": "Insomnia Killer",
+      "category": "Web apps",
+      "tag": "Interactive",
+      "summary": "Ambient colour-shifting app that reads the device clock and changes hues at 10 PM and 12 AM to help you wind down for sleep.",
+      "stack": [
+        "JavaScript",
+        "Date API",
+        "CSS Animation"
+      ],
+      "badge": "",
+      "links": {
+        "demo": "https://relaxed-shortbread-5ab584.netlify.app/",
+        "code": ""
+      }
+    },
+    {
+      "name": "To-Do List App",
+      "category": "Web apps",
+      "tag": "Productivity",
+      "summary": "Animated task manager that saves tasks in localStorage so they survive a page refresh.",
+      "stack": [
+        "JavaScript",
+        "localStorage"
+      ],
+      "badge": "",
+      "links": {
+        "demo": "https://gorgeous-klepon-edf2ed.netlify.app/",
+        "code": ""
+      }
+    }
+  ],
+  "wins": [
+    {
+      "title": "Odoo Hackathon 2026 · Finalist team",
+      "detail": "Our team was selected for the national finale in Gujarat out of 20,000+ applicants. I contributed to the qualifying submission.",
+      "date": "2026",
+      "kind": "Hackathon",
+      "rank": "Finalist",
+      "certificate": "certificates/odoo-hackathon.jpg",
+      "stat": "20,000+",
+      "statLabel": "applicants · team selected for the finale"
+    },
+    {
+      "title": "TAGIFY · 1st place",
+      "detail": "First place in TAGIFY, organised by the Department of Information Technology with the Coders Club, St. Peter's College of Engineering and Technology.",
+      "date": "2026-03-26",
+      "kind": "Prize",
+      "rank": "1st",
+      "certificate": "certificates/tagify-first-place.jpg"
+    },
+    {
+      "title": "Byte Strike · 2nd place",
+      "detail": "2nd place with team Spark Minds at CYVESTA '26, a national-level symposium by the Department of Cybersecurity, Aalim Muhammed Salegh College of Engineering.",
+      "date": "2026-09-12",
+      "kind": "Prize",
+      "rank": "2nd",
+      "certificate": "certificates/byte-strike.jpg"
+    },
+    {
+      "title": "Prompt Engineering · Trophy",
+      "detail": "Won the Prompt Engineering event as a team of three at St. Peter's College of Engineering and Technology.",
+      "date": "2026-03",
+      "kind": "Prize",
+      "rank": "Winner",
+      "certificate": "certificates/prompt-engineering-trophy.jpg"
+    },
+    {
+      "title": "Gratitude Bowl · Runner-up",
+      "detail": "2nd prize at the International Women's Day event, St. Peter's Group of Institutions.",
+      "date": "2026-03-07",
+      "kind": "Prize",
+      "rank": "2nd",
+      "certificate": "certificates/womens-day-runner-up-trophy.jpg"
+    },
+    {
+      "title": "Inter-college Tamil speech competition · 2nd place",
+      "detail": "Second place in a college-level Tamil oratory competition.",
+      "date": "2024-08-25",
+      "kind": "Prize",
+      "rank": "2nd",
+      "certificate": "certificates/tamil-speech-second-place.jpg"
+    },
+    {
+      "title": "Super Exchange · National-level hackathon",
+      "detail": "Participated in a national-level hackathon.",
+      "date": "2026",
+      "kind": "Hackathon",
+      "rank": "",
+      "certificate": ""
+    },
+    {
+      "title": "IDEATHON 2026 · Sustainable Technology",
+      "detail": "Pitched an innovative idea in sustainable technology at Tamizhan Skills' national ideathon.",
+      "date": "2026-01-24",
+      "kind": "Hackathon",
+      "rank": "",
+      "certificate": "certificates/tamizhan-ideathon-2026.jpg"
+    },
+    {
+      "title": "Ideathon 2025",
+      "detail": "Participated in Ideathon 2025 at Vasantdada Patil Pratishthan's College of Engineering.",
+      "date": "2025-09-13",
+      "kind": "Hackathon",
+      "rank": "",
+      "certificate": "certificates/ideathon-2025-vasantdada.jpg"
+    },
+    {
+      "title": "Spiher Innosphere 2025 · Green Technology Ideathon",
+      "detail": "Inter-collegiate ideathon on sustainability and green technology, St. Peter's Institute of Higher Education and Research.",
+      "date": "2025-03-05",
+      "kind": "Hackathon",
+      "rank": "",
+      "certificate": "certificates/innosphere-ideathon-2025.jpg"
+    }
+  ],
+  "research": [
+    {
+      "title": "Skin Disease Detection using Deep Learning",
+      "venue": "National Conference on Next Generation Engineering, Research and Innovation (NCNGERI-2026), Dept. of AI & DS, Mailam Engineering College",
+      "date": "2026-03-14",
+      "type": "Published paper",
+      "isbn": "",
+      "link": "",
+      "certificate": "certificates/ncngeri-paper.jpg"
+    },
+    {
+      "title": "Paper presentation · GENESIS '25",
+      "venue": "National-level symposium, SRM Institute of Science and Technology, Vadapalani",
+      "date": "2025-09-25",
+      "type": "Paper presentation",
+      "certificate": "certificates/genesis-25-srm-paper.jpg"
+    },
+    {
+      "title": "Paper presentation · TECHTRONIX 2K24",
+      "venue": "IEEE national-level symposium, Alpha College of Engineering, Chennai",
+      "date": "2024-10-01",
+      "type": "Paper presentation",
+      "certificate": "certificates/techtronix-2k24-paper.jpg"
+    },
+    {
+      "title": "Paper presentation · DEVXPO 2K24",
+      "venue": "National-level symposium, School of CSE and AI&DS, Sriram Engineering College",
+      "date": "2024-10-04",
+      "type": "Paper presentation",
+      "certificate": "certificates/devxpo-2k24-paper.jpg"
+    }
+  ],
+  "memberships": [
+    {
+      "name": "IFERP",
+      "full": "Institute for Engineering Research and Publication",
+      "role": "Member"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Odoo Hackathon 2026 · Finale selection",
+      "issuer": "Odoo",
+      "date": "2026",
+      "kind": "Hackathon",
+      "image": "certificates/odoo-hackathon.jpg"
+    },
+    {
+      "title": "Essentials of Automation Testing with Scripting",
+      "issuer": "NSIC · Govt. of India",
+      "date": "Sep 2026",
+      "kind": "Training",
+      "note": "Grade A1",
+      "image": "certificates/nsic-automation-testing.jpg"
+    },
+    {
+      "title": "ServiceNow Virtual Internship",
+      "issuer": "ServiceNow University · SmartBridge",
+      "date": "Jul 2026",
+      "kind": "Internship",
+      "image": "certificates/servicenow.jpg"
+    },
+    {
+      "title": "Front-End Development Internship",
+      "issuer": "QSkill · SR India",
+      "date": "Jul 2026",
+      "kind": "Internship",
+      "note": "ID qsfnwd2026061913",
+      "image": "certificates/qskill-frontend.jpg"
+    },
+    {
+      "title": "Cloud Computing Internship",
+      "issuer": "Tamizhan Skills",
+      "date": "Jun 2026",
+      "kind": "Internship",
+      "image": "certificates/tamizhan-cloud.jpg"
+    },
+    {
+      "title": "Data Science & Analytics Internship",
+      "issuer": "Tamizhan Skills",
+      "date": "Mar 2026",
+      "kind": "Internship",
+      "image": "certificates/tamizhan-data-science-internship.jpg"
+    },
+    {
+      "title": "Artificial Intelligence Internship",
+      "issuer": "CodTech IT Solutions",
+      "date": "Jul 2025",
+      "kind": "Internship",
+      "image": "certificates/codtech-ai-internship.jpg"
+    },
+    {
+      "title": "Byte Strike · 2nd place",
+      "issuer": "Aalim Muhammed Salegh College of Engineering",
+      "date": "Sep 2026",
+      "kind": "Prize",
+      "note": "CYVESTA '26",
+      "image": "certificates/byte-strike.jpg"
+    },
+    {
+      "title": "TAGIFY · 1st place",
+      "issuer": "St. Peter's College of Engineering and Technology",
+      "date": "Mar 2026",
+      "kind": "Prize",
+      "image": "certificates/tagify-first-place.jpg"
+    },
+    {
+      "title": "Prompt Engineering · Trophy",
+      "issuer": "St. Peter's College of Engineering and Technology",
+      "date": "Mar 2026",
+      "kind": "Prize",
+      "image": "certificates/prompt-engineering-trophy.jpg"
+    },
+    {
+      "title": "International Women's Day · Runner-up trophy",
+      "issuer": "St. Peter's Group of Institutions",
+      "date": "Mar 2026",
+      "kind": "Prize",
+      "image": "certificates/womens-day-runner-up-trophy.jpg"
+    },
+    {
+      "title": "Gratitude Bowl · 2nd prize",
+      "issuer": "St. Peter's College of Engineering and Technology",
+      "date": "Mar 2026",
+      "kind": "Prize",
+      "image": "certificates/womens-day-gratitude-bowl.jpg"
+    },
+    {
+      "title": "Tamil speech competition · 2nd place",
+      "issuer": "Inter-college competition",
+      "date": "Aug 2024",
+      "kind": "Prize",
+      "image": "certificates/tamil-speech-second-place.jpg"
+    },
+    {
+      "title": "Skin Disease Detection using Deep Learning",
+      "issuer": "NCNGERI-2026 · Mailam Engineering College",
+      "date": "Mar 2026",
+      "kind": "Research",
+      "note": "Published paper",
+      "image": "certificates/ncngeri-paper.jpg"
+    },
+    {
+      "title": "GENESIS '25 · Paper presentation",
+      "issuer": "SRM Institute of Science and Technology",
+      "date": "Sep 2025",
+      "kind": "Research",
+      "image": "certificates/genesis-25-srm-paper.jpg"
+    },
+    {
+      "title": "TECHTRONIX 2K24 · Paper presentation",
+      "issuer": "IEEE · Alpha College of Engineering",
+      "date": "Oct 2024",
+      "kind": "Research",
+      "image": "certificates/techtronix-2k24-paper.jpg"
+    },
+    {
+      "title": "DEVXPO 2K24 · Paper presentation",
+      "issuer": "Sriram Engineering College",
+      "date": "Oct 2024",
+      "kind": "Research",
+      "image": "certificates/devxpo-2k24-paper.jpg"
+    },
+    {
+      "title": "Software Engineering",
+      "issuer": "NPTEL · IIT Kharagpur",
+      "date": "Oct 2026",
+      "kind": "Course",
+      "note": "12-week course",
+      "image": "certificates/nptel-software-engineering.jpg"
+    },
+    {
+      "title": "Software Engineering Fundamentals: Development & Testing",
+      "issuer": "Infosys Springboard",
+      "date": "Feb 2026",
+      "kind": "Course",
+      "image": "certificates/infosys-software-engineering.jpg"
+    },
+    {
+      "title": "CS406: Information Security",
+      "issuer": "Saylor Academy",
+      "date": "Feb 2026",
+      "kind": "Course",
+      "note": "46 hours",
+      "image": "certificates/saylor-cs406-information-security.jpg"
+    },
+    {
+      "title": "Journey to Cloud: Orchestrating your Solution",
+      "issuer": "IBM SkillsBuild",
+      "date": "Feb 2026",
+      "kind": "Course",
+      "image": "certificates/ibm-journey-to-cloud.jpg"
+    },
+    {
+      "title": "Programming in Python with AI",
+      "issuer": "Internshala Trainings",
+      "date": "Nov 2025",
+      "kind": "Training",
+      "image": "certificates/internshala-python-ai.jpg"
+    },
+    {
+      "title": "BUS250: Business Intelligence and Analytics",
+      "issuer": "Saylor Academy",
+      "date": "Sep 2025",
+      "kind": "Course",
+      "note": "Grade 94%",
+      "image": "certificates/saylor-bus250-business-intelligence.jpg"
+    },
+    {
+      "title": "Data Visualization using Python",
+      "issuer": "GUVI × HCL",
+      "date": "Aug 2025",
+      "kind": "Course",
+      "image": "certificates/guvi-data-visualization-python.jpg"
+    },
+    {
+      "title": "MongoDB Basics for Students",
+      "issuer": "MongoDB",
+      "date": "Aug 2025",
+      "kind": "Course",
+      "image": "certificates/mongodb-basics.jpg"
+    },
+    {
+      "title": "Cybersecurity Fundamentals",
+      "issuer": "IBM SkillsBuild",
+      "date": "Jul 2025",
+      "kind": "Course",
+      "image": "certificates/ibm-cybersecurity-fundamentals.jpg"
+    },
+    {
+      "title": "Introduction to Data Science",
+      "issuer": "Simplilearn SkillUp",
+      "date": "Jul 2025",
+      "kind": "Course",
+      "image": "certificates/simplilearn-data-science.jpg"
+    },
+    {
+      "title": "ChatGPT Advanced Course",
+      "issuer": "Simplilearn SkillUp",
+      "date": "Jul 2025",
+      "kind": "Course",
+      "image": "certificates/simplilearn-chatgpt-advanced.jpg"
+    },
+    {
+      "title": "Introduction to Generative AI",
+      "issuer": "Google Cloud × Simplilearn",
+      "date": "Jul 2025",
+      "kind": "Course",
+      "image": "certificates/google-cloud-generative-ai.jpg"
+    },
+    {
+      "title": "Python Programming",
+      "issuer": "CodeTantra",
+      "date": "May 2025",
+      "kind": "Course",
+      "image": "certificates/codetantra-python.jpg"
+    },
+    {
+      "title": "Introduction to Database Systems",
+      "issuer": "NPTEL · IIT Madras",
+      "date": "Apr 2025",
+      "kind": "Course",
+      "note": "12-week course",
+      "image": "certificates/nptel-database-systems.jpg"
+    },
+    {
+      "title": "Artificial Intelligence Fundamentals",
+      "issuer": "IBM SkillsBuild",
+      "date": "Jan 2025",
+      "kind": "Course",
+      "image": "certificates/ibm-ai-fundamentals.jpg"
+    },
+    {
+      "title": "Customer Engagement: Communication and Personality Dynamics",
+      "issuer": "IBM SkillsBuild",
+      "date": "Jan 2025",
+      "kind": "Course",
+      "image": "certificates/ibm-customer-engagement.jpg"
+    },
+    {
+      "title": "IDEATHON 2026 · Sustainable Technology",
+      "issuer": "Tamizhan Skills",
+      "date": "Jan 2026",
+      "kind": "Hackathon",
+      "image": "certificates/tamizhan-ideathon-2026.jpg"
+    },
+    {
+      "title": "Ideathon 2025",
+      "issuer": "Vasantdada Patil Pratishthan's College of Engineering",
+      "date": "Sep 2025",
+      "kind": "Hackathon",
+      "image": "certificates/ideathon-2025-vasantdada.jpg"
+    },
+    {
+      "title": "Spiher Innosphere 2025 · Green Technology Ideathon",
+      "issuer": "St. Peter's Institute of Higher Education and Research",
+      "date": "Mar 2025",
+      "kind": "Hackathon",
+      "image": "certificates/innosphere-ideathon-2025.jpg"
+    },
+    {
+      "title": "Ignite Bootcamp · Venture Idea Development",
+      "issuer": "Wadhwani Foundation",
+      "date": "Mar 2026",
+      "kind": "Event",
+      "image": "certificates/wadhwani-ignite-bootcamp.jpg"
+    },
+    {
+      "title": "Tech Fusion · ASTHRA 2K26",
+      "issuer": "Meenakshi Sundararajan Engineering College",
+      "date": "Mar 2026",
+      "kind": "Event",
+      "image": "certificates/asthra-techfusion.jpg"
+    },
+    {
+      "title": "TATA Crucible Campus Quiz 2025",
+      "issuer": "Tata Group · Unstop",
+      "date": "2025",
+      "kind": "Event",
+      "image": "certificates/tata-crucible-2025.jpg"
+    }
+  ]
+}
