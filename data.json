@@ -6,7 +6,7 @@
   "profile": {
     "name": "Varsha Rajmohan",
     "displayName": "Varsha.R",
-    "photo": "images/profile.jpg",
+    "photo": "profile.jpg",
     "degree": "Final-year B.E. Computer Science & Engineering · CGPA 8.4",
     "college": "St. Peter's College of Engineering & Technology, Chennai",
     "graduation": "Class of 2027",
@@ -309,7 +309,7 @@
         "Test Scripting",
         "QA"
       ],
-      "certificate": "certificates/nsic-automation-testing.jpg"
+      "certificate": "nsic-automation-testing.jpg"
     },
     {
       "role": "Virtual Intern · ServiceNow",
@@ -324,7 +324,7 @@
         "Flow Designer",
         "CSA prep"
       ],
-      "certificate": "certificates/servicenow.jpg"
+      "certificate": "servicenow.jpg"
     },
     {
       "role": "Front-End Development Intern",
@@ -339,7 +339,7 @@
         "JavaScript",
         "Routing"
       ],
-      "certificate": "certificates/qskill-frontend.jpg"
+      "certificate": "qskill-frontend.jpg"
     },
     {
       "role": "Cloud Computing Intern · RISE Program",
@@ -354,7 +354,7 @@
         "Cloudflare",
         "Grafana Cloud"
       ],
-      "certificate": "certificates/tamizhan-cloud.jpg"
+      "certificate": "tamizhan-cloud.jpg"
     },
     {
       "role": "Data Science & Analytics Intern · RISE Program",
@@ -369,7 +369,7 @@
         "EDA",
         "Visualization"
       ],
-      "certificate": "certificates/tamizhan-data-science-internship.jpg"
+      "certificate": "tamizhan-data-science-internship.jpg"
     },
     {
       "role": "Artificial Intelligence Intern",
@@ -383,7 +383,7 @@
         "Machine Learning",
         "Python"
       ],
-      "certificate": "certificates/codtech-ai-internship.jpg"
+      "certificate": "codtech-ai-internship.jpg"
     },
     {
       "role": "Data Science Intern",
@@ -539,7 +539,7 @@
       "date": "2026",
       "kind": "Hackathon",
       "rank": "Finalist",
-      "certificate": "certificates/odoo-hackathon.jpg",
+      "certificate": "odoo-hackathon.jpg",
       "stat": "20,000+",
       "statLabel": "applicants · team selected for the finale"
     },
@@ -549,7 +549,7 @@
       "date": "2026-03-26",
       "kind": "Prize",
       "rank": "1st",
-      "certificate": "certificates/tagify-first-place.jpg"
+      "certificate": "tagify-first-place.jpg"
     },
     {
       "title": "Byte Strike · 2nd place",
@@ -557,7 +557,7 @@
       "date": "2026-09-12",
       "kind": "Prize",
       "rank": "2nd",
-      "certificate": "certificates/byte-strike.jpg"
+      "certificate": "byte-strike.jpg"
     },
     {
       "title": "Prompt Engineering · Trophy",
@@ -565,7 +565,7 @@
       "date": "2026-03",
       "kind": "Prize",
       "rank": "Winner",
-      "certificate": "certificates/prompt-engineering-trophy.jpg"
+      "certificate": "prompt-engineering-trophy.jpg"
     },
     {
       "title": "Gratitude Bowl · Runner-up",
@@ -573,7 +573,7 @@
       "date": "2026-03-07",
       "kind": "Prize",
       "rank": "2nd",
-      "certificate": "certificates/womens-day-runner-up-trophy.jpg"
+      "certificate": "womens-day-runner-up-trophy.jpg"
     },
     {
       "title": "Inter-college Tamil speech competition · 2nd place",
@@ -581,7 +581,7 @@
       "date": "2024-08-25",
       "kind": "Prize",
       "rank": "2nd",
-      "certificate": "certificates/tamil-speech-second-place.jpg"
+      "certificate": "tamil-speech-second-place.jpg"
     },
     {
       "title": "Super Exchange · National-level hackathon",
@@ -597,7 +597,7 @@
       "date": "2026-01-24",
       "kind": "Hackathon",
       "rank": "",
-      "certificate": "certificates/tamizhan-ideathon-2026.jpg"
+      "certificate": "tamizhan-ideathon-2026.jpg"
     },
     {
       "title": "Ideathon 2025",
@@ -605,7 +605,7 @@
       "date": "2025-09-13",
       "kind": "Hackathon",
       "rank": "",
-      "certificate": "certificates/ideathon-2025-vasantdada.jpg"
+      "certificate": "ideathon-2025-vasantdada.jpg"
     },
     {
       "title": "Spiher Innosphere 2025 · Green Technology Ideathon",
@@ -613,7 +613,7 @@
       "date": "2025-03-05",
       "kind": "Hackathon",
       "rank": "",
-      "certificate": "certificates/innosphere-ideathon-2025.jpg"
+      "certificate": "innosphere-ideathon-2025.jpg"
     }
   ],
   "research": [
@@ -624,28 +624,28 @@
       "type": "Published paper",
       "isbn": "",
       "link": "",
-      "certificate": "certificates/ncngeri-paper.jpg"
+      "certificate": "ncngeri-paper.jpg"
     },
     {
       "title": "Paper presentation · GENESIS '25",
       "venue": "National-level symposium, SRM Institute of Science and Technology, Vadapalani",
       "date": "2025-09-25",
       "type": "Paper presentation",
-      "certificate": "certificates/genesis-25-srm-paper.jpg"
+      "certificate": "genesis-25-srm-paper.jpg"
     },
     {
       "title": "Paper presentation · TECHTRONIX 2K24",
       "venue": "IEEE national-level symposium, Alpha College of Engineering, Chennai",
       "date": "2024-10-01",
       "type": "Paper presentation",
-      "certificate": "certificates/techtronix-2k24-paper.jpg"
+      "certificate": "techtronix-2k24-paper.jpg"
     },
     {
       "title": "Paper presentation · DEVXPO 2K24",
       "venue": "National-level symposium, School of CSE and AI&DS, Sriram Engineering College",
       "date": "2024-10-04",
       "type": "Paper presentation",
-      "certificate": "certificates/devxpo-2k24-paper.jpg"
+      "certificate": "devxpo-2k24-paper.jpg"
     }
   ],
   "memberships": [
@@ -661,7 +661,7 @@
       "issuer": "Odoo",
       "date": "2026",
       "kind": "Hackathon",
-      "image": "certificates/odoo-hackathon.jpg"
+      "image": "odoo-hackathon.jpg"
     },
     {
       "title": "Essentials of Automation Testing with Scripting",
@@ -669,14 +669,14 @@
       "date": "Sep 2026",
       "kind": "Training",
       "note": "Grade A1",
-      "image": "certificates/nsic-automation-testing.jpg"
+      "image": "nsic-automation-testing.jpg"
     },
     {
       "title": "ServiceNow Virtual Internship",
       "issuer": "ServiceNow University · SmartBridge",
       "date": "Jul 2026",
       "kind": "Internship",
-      "image": "certificates/servicenow.jpg"
+      "image": "servicenow.jpg"
     },
     {
       "title": "Front-End Development Internship",
@@ -684,28 +684,28 @@
       "date": "Jul 2026",
       "kind": "Internship",
       "note": "ID qsfnwd2026061913",
-      "image": "certificates/qskill-frontend.jpg"
+      "image": "qskill-frontend.jpg"
     },
     {
       "title": "Cloud Computing Internship",
       "issuer": "Tamizhan Skills",
       "date": "Jun 2026",
       "kind": "Internship",
-      "image": "certificates/tamizhan-cloud.jpg"
+      "image": "tamizhan-cloud.jpg"
     },
     {
       "title": "Data Science & Analytics Internship",
       "issuer": "Tamizhan Skills",
       "date": "Mar 2026",
       "kind": "Internship",
-      "image": "certificates/tamizhan-data-science-internship.jpg"
+      "image": "tamizhan-data-science-internship.jpg"
     },
     {
       "title": "Artificial Intelligence Internship",
       "issuer": "CodTech IT Solutions",
       "date": "Jul 2025",
       "kind": "Internship",
-      "image": "certificates/codtech-ai-internship.jpg"
+      "image": "codtech-ai-internship.jpg"
     },
     {
       "title": "Byte Strike · 2nd place",
@@ -713,42 +713,42 @@
       "date": "Sep 2026",
       "kind": "Prize",
       "note": "CYVESTA '26",
-      "image": "certificates/byte-strike.jpg"
+      "image": "byte-strike.jpg"
     },
     {
       "title": "TAGIFY · 1st place",
       "issuer": "St. Peter's College of Engineering and Technology",
       "date": "Mar 2026",
       "kind": "Prize",
-      "image": "certificates/tagify-first-place.jpg"
+      "image": "tagify-first-place.jpg"
     },
     {
       "title": "Prompt Engineering · Trophy",
       "issuer": "St. Peter's College of Engineering and Technology",
       "date": "Mar 2026",
       "kind": "Prize",
-      "image": "certificates/prompt-engineering-trophy.jpg"
+      "image": "prompt-engineering-trophy.jpg"
     },
     {
       "title": "International Women's Day · Runner-up trophy",
       "issuer": "St. Peter's Group of Institutions",
       "date": "Mar 2026",
       "kind": "Prize",
-      "image": "certificates/womens-day-runner-up-trophy.jpg"
+      "image": "womens-day-runner-up-trophy.jpg"
     },
     {
       "title": "Gratitude Bowl · 2nd prize",
       "issuer": "St. Peter's College of Engineering and Technology",
       "date": "Mar 2026",
       "kind": "Prize",
-      "image": "certificates/womens-day-gratitude-bowl.jpg"
+      "image": "womens-day-gratitude-bowl.jpg"
     },
     {
       "title": "Tamil speech competition · 2nd place",
       "issuer": "Inter-college competition",
       "date": "Aug 2024",
       "kind": "Prize",
-      "image": "certificates/tamil-speech-second-place.jpg"
+      "image": "tamil-speech-second-place.jpg"
     },
     {
       "title": "Skin Disease Detection using Deep Learning",
@@ -756,28 +756,28 @@
       "date": "Mar 2026",
       "kind": "Research",
       "note": "Published paper",
-      "image": "certificates/ncngeri-paper.jpg"
+      "image": "ncngeri-paper.jpg"
     },
     {
       "title": "GENESIS '25 · Paper presentation",
       "issuer": "SRM Institute of Science and Technology",
       "date": "Sep 2025",
       "kind": "Research",
-      "image": "certificates/genesis-25-srm-paper.jpg"
+      "image": "genesis-25-srm-paper.jpg"
     },
     {
       "title": "TECHTRONIX 2K24 · Paper presentation",
       "issuer": "IEEE · Alpha College of Engineering",
       "date": "Oct 2024",
       "kind": "Research",
-      "image": "certificates/techtronix-2k24-paper.jpg"
+      "image": "techtronix-2k24-paper.jpg"
     },
     {
       "title": "DEVXPO 2K24 · Paper presentation",
       "issuer": "Sriram Engineering College",
       "date": "Oct 2024",
       "kind": "Research",
-      "image": "certificates/devxpo-2k24-paper.jpg"
+      "image": "devxpo-2k24-paper.jpg"
     },
     {
       "title": "Software Engineering",
@@ -785,14 +785,14 @@
       "date": "Oct 2026",
       "kind": "Course",
       "note": "12-week course",
-      "image": "certificates/nptel-software-engineering.jpg"
+      "image": "nptel-software-engineering.jpg"
     },
     {
       "title": "Software Engineering Fundamentals: Development & Testing",
       "issuer": "Infosys Springboard",
       "date": "Feb 2026",
       "kind": "Course",
-      "image": "certificates/infosys-software-engineering.jpg"
+      "image": "infosys-software-engineering.jpg"
     },
     {
       "title": "CS406: Information Security",
@@ -800,21 +800,21 @@
       "date": "Feb 2026",
       "kind": "Course",
       "note": "46 hours",
-      "image": "certificates/saylor-cs406-information-security.jpg"
+      "image": "saylor-cs406-information-security.jpg"
     },
     {
       "title": "Journey to Cloud: Orchestrating your Solution",
       "issuer": "IBM SkillsBuild",
       "date": "Feb 2026",
       "kind": "Course",
-      "image": "certificates/ibm-journey-to-cloud.jpg"
+      "image": "ibm-journey-to-cloud.jpg"
     },
     {
       "title": "Programming in Python with AI",
       "issuer": "Internshala Trainings",
       "date": "Nov 2025",
       "kind": "Training",
-      "image": "certificates/internshala-python-ai.jpg"
+      "image": "internshala-python-ai.jpg"
     },
     {
       "title": "BUS250: Business Intelligence and Analytics",
@@ -822,56 +822,56 @@
       "date": "Sep 2025",
       "kind": "Course",
       "note": "Grade 94%",
-      "image": "certificates/saylor-bus250-business-intelligence.jpg"
+      "image": "saylor-bus250-business-intelligence.jpg"
     },
     {
       "title": "Data Visualization using Python",
       "issuer": "GUVI × HCL",
       "date": "Aug 2025",
       "kind": "Course",
-      "image": "certificates/guvi-data-visualization-python.jpg"
+      "image": "guvi-data-visualization-python.jpg"
     },
     {
       "title": "MongoDB Basics for Students",
       "issuer": "MongoDB",
       "date": "Aug 2025",
       "kind": "Course",
-      "image": "certificates/mongodb-basics.jpg"
+      "image": "mongodb-basics.jpg"
     },
     {
       "title": "Cybersecurity Fundamentals",
       "issuer": "IBM SkillsBuild",
       "date": "Jul 2025",
       "kind": "Course",
-      "image": "certificates/ibm-cybersecurity-fundamentals.jpg"
+      "image": "ibm-cybersecurity-fundamentals.jpg"
     },
     {
       "title": "Introduction to Data Science",
       "issuer": "Simplilearn SkillUp",
       "date": "Jul 2025",
       "kind": "Course",
-      "image": "certificates/simplilearn-data-science.jpg"
+      "image": "simplilearn-data-science.jpg"
     },
     {
       "title": "ChatGPT Advanced Course",
       "issuer": "Simplilearn SkillUp",
       "date": "Jul 2025",
       "kind": "Course",
-      "image": "certificates/simplilearn-chatgpt-advanced.jpg"
+      "image": "simplilearn-chatgpt-advanced.jpg"
     },
     {
       "title": "Introduction to Generative AI",
       "issuer": "Google Cloud × Simplilearn",
       "date": "Jul 2025",
       "kind": "Course",
-      "image": "certificates/google-cloud-generative-ai.jpg"
+      "image": "google-cloud-generative-ai.jpg"
     },
     {
       "title": "Python Programming",
       "issuer": "CodeTantra",
       "date": "May 2025",
       "kind": "Course",
-      "image": "certificates/codetantra-python.jpg"
+      "image": "codetantra-python.jpg"
     },
     {
       "title": "Introduction to Database Systems",
@@ -879,63 +879,63 @@
       "date": "Apr 2025",
       "kind": "Course",
       "note": "12-week course",
-      "image": "certificates/nptel-database-systems.jpg"
+      "image": "nptel-database-systems.jpg"
     },
     {
       "title": "Artificial Intelligence Fundamentals",
       "issuer": "IBM SkillsBuild",
       "date": "Jan 2025",
       "kind": "Course",
-      "image": "certificates/ibm-ai-fundamentals.jpg"
+      "image": "ibm-ai-fundamentals.jpg"
     },
     {
       "title": "Customer Engagement: Communication and Personality Dynamics",
       "issuer": "IBM SkillsBuild",
       "date": "Jan 2025",
       "kind": "Course",
-      "image": "certificates/ibm-customer-engagement.jpg"
+      "image": "ibm-customer-engagement.jpg"
     },
     {
       "title": "IDEATHON 2026 · Sustainable Technology",
       "issuer": "Tamizhan Skills",
       "date": "Jan 2026",
       "kind": "Hackathon",
-      "image": "certificates/tamizhan-ideathon-2026.jpg"
+      "image": "tamizhan-ideathon-2026.jpg"
     },
     {
       "title": "Ideathon 2025",
       "issuer": "Vasantdada Patil Pratishthan's College of Engineering",
       "date": "Sep 2025",
       "kind": "Hackathon",
-      "image": "certificates/ideathon-2025-vasantdada.jpg"
+      "image": "ideathon-2025-vasantdada.jpg"
     },
     {
       "title": "Spiher Innosphere 2025 · Green Technology Ideathon",
       "issuer": "St. Peter's Institute of Higher Education and Research",
       "date": "Mar 2025",
       "kind": "Hackathon",
-      "image": "certificates/innosphere-ideathon-2025.jpg"
+      "image": "innosphere-ideathon-2025.jpg"
     },
     {
       "title": "Ignite Bootcamp · Venture Idea Development",
       "issuer": "Wadhwani Foundation",
       "date": "Mar 2026",
       "kind": "Event",
-      "image": "certificates/wadhwani-ignite-bootcamp.jpg"
+      "image": "wadhwani-ignite-bootcamp.jpg"
     },
     {
       "title": "Tech Fusion · ASTHRA 2K26",
       "issuer": "Meenakshi Sundararajan Engineering College",
       "date": "Mar 2026",
       "kind": "Event",
-      "image": "certificates/asthra-techfusion.jpg"
+      "image": "asthra-techfusion.jpg"
     },
     {
       "title": "TATA Crucible Campus Quiz 2025",
       "issuer": "Tata Group · Unstop",
       "date": "2025",
       "kind": "Event",
-      "image": "certificates/tata-crucible-2025.jpg"
+      "image": "tata-crucible-2025.jpg"
     }
   ]
 }

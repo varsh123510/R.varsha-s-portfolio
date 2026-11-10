@@ -9,13 +9,13 @@ Same "drive through" site as before, now driven by **data.json**. You never edit
 ```
 index.html      the site (design + code)
 data.json       ALL the content: profile, internships, projects, wins, research, certificates
-images/         profile.jpg
-certificates/   certificate images
+profile.jpg     her photo
+*.jpg           certificate images (all at the top level, no folders)
 sitemap.xml, robots.txt   for Google
 ```
 
 ## Add something new (3 steps)
-1. Drop the image into `certificates/`. Use a simple name with no spaces, e.g. `aws-cloud-practitioner.jpg`.
+1. Upload the image to the repo (top level, no folder). Use a simple name with no spaces, e.g. `aws-cloud-practitioner.jpg`.
 2. Open `data.json` and copy an existing entry in the right list, then change the text.
 3. Commit and push to GitHub. Vercel redeploys in about a minute.
 
@@ -23,14 +23,14 @@ sitemap.xml, robots.txt   for Google
 New certificate (list: `certificates`). `kind` must be one of: Internship, Training, Course, Prize, Research, Hackathon, Event (or a new word, which creates a new filter button):
 ```json
 { "title": "AWS Cloud Practitioner", "issuer": "Amazon Web Services", "date": "Dec 2026",
-  "kind": "Course", "note": "Credential ID ABC123", "image": "certificates/aws-cloud-practitioner.jpg" }
+  "kind": "Course", "note": "Credential ID ABC123", "image": "aws-cloud-practitioner.jpg" }
 ```
 New internship (list: `experience`, sorted newest-first automatically; `type` is Internship or Training):
 ```json
 { "role": "Software Engineer Intern", "org": "Company name", "type": "Internship",
   "start": "2027-01-05", "end": "2027-03-31",
   "summary": "One or two lines on what you built.", "tags": ["React", "Node.js"],
-  "certificate": "certificates/company-internship.jpg" }
+  "certificate": "company-internship.jpg" }
 ```
 New project (list: `projects`). A green **Live demo** and a **Preview** button appear when `demo` is filled; a **Code** button when `code` is filled. `category` creates the filter buttons:
 ```json
